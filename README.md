@@ -4,15 +4,15 @@ This repository contains Jupyter Notebook files for preparing datasets for the E
 
 ## Notebooks
 
-### 1. data_preparation.ipynb
+### 1_data_preparation_for_etl.ipynb
 
 - This notebook outlines the initial steps to prepare a dataset for the ETL process.
 - It covers tasks such as file extraction, data manipulation, and formatting using Python functions.
 
-### 2. additional_data_preparation.ipynb
+### 2_taxi_data_processing.ipynb
 
-- This notebook provides additional data preparation steps beyond the basics covered in the first notebook.
-- It includes more advanced data cleaning, transformation, and validation techniques to further refine the dataset.
+- This notebook demonstrates the extraction and processing of taxi data from JSON files using Python.
+- It provides functions to extract taxi group information, process the data to derive meaningful insights, and create a structured DataFrame for further analysis.
 
 ## Usage
 
