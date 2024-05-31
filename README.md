@@ -14,6 +14,12 @@ This repository contains Jupyter Notebook files for preparing datasets for the E
 - This notebook demonstrates the extraction and processing of taxi data from JSON files using Python.
 - It provides functions to extract taxi group information, process the data to derive meaningful insights, and create a structured DataFrame for further analysis.
 
+### 3_data_cleaning_for_analyis.ipynb
+
+- The third Jupyter notebook primarily focuses on data cleaning and transformation processes to prepare the dataset for further analysis, ensuring data integrity and consistency.
+- It outlines a series of functions and procedures to handle various data cleaning tasks, including handling empty fields, removing duplicates, converting data types, addressing outliers, and ensuring consistent column order.
+- Additionally, the notebook meets the requirement of saving the final cleaned dataset as CSV but maintains pickle files between stages.
+
 ## Usage
 
 1. Clone the repository to your local machine:
