@@ -20,6 +20,11 @@ This repository contains Jupyter Notebook files for preparing and cleaning datas
 - Outlines procedures to handle tasks such as empty fields, duplicates removal, data type conversion, outlier detection, and consistent column ordering.
 - Meets the requirement of saving the final cleaned dataset as CSV while maintaining intermediate pickle files between stages.
 
+### 4_exploratory_data_analysis_with_dtale.ipynb
+
+- This notebook utilizes the Dtale library for interactive exploratory data analysis (EDA) on a Pandas DataFrame.
+- It installs necessary libraries, loads the dataset, configures Dtale for use in the Colab environment, and provides auxiliary functions for managing Dtale instances.
+
 ## Usage
 
 1. Clone the repository to your local machine:
