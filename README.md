@@ -4,6 +4,11 @@ This repository contains Jupyter Notebook files for preparing and cleaning datas
 
 ## Notebooks
 
+### a_prelim_workings_VERY_ROUGH_WORKINGS.ipynb
+
+- This notebook documents the initial exploration and experimentation steps taken during the project, providing insight into the preliminary data processing efforts.
+- It is messy and unrefined, reflecting the early stages of the process before the more structured and refined notebooks were developed.
+
 ### 1_data_preparation_for_etl.ipynb
 
 - Outlines initial steps to prepare datasets for the ETL process.
