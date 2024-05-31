@@ -1,24 +1,24 @@
 # Data Preparation for ETL Process
 
-This repository contains Jupyter Notebook files for preparing datasets for the Extract, Transform, Load (ETL) process using Python. The notebooks guide users through various data preparation steps, including file extraction, manipulation, and formatting, to ensure the datasets are well-prepared for subsequent data processing tasks.
+This repository contains Jupyter Notebook files for preparing and cleaning datasets for subsequent analysis tasks using Python. The notebooks guide users through various data preparation and cleaning steps to ensure the datasets are well-prepared and suitable for further analysis.
 
 ## Notebooks
 
 ### 1_data_preparation_for_etl.ipynb
 
-- This notebook outlines the initial steps to prepare a dataset for the ETL process.
-- It covers tasks such as file extraction, data manipulation, and formatting using Python functions.
+- Outlines initial steps to prepare datasets for the ETL process.
+- Covers tasks such as file extraction, data manipulation, and formatting using Python functions.
 
 ### 2_taxi_data_processing.ipynb
 
-- This notebook demonstrates the extraction and processing of taxi data from JSON files using Python.
-- It provides functions to extract taxi group information, process the data to derive meaningful insights, and create a structured DataFrame for further analysis.
+- Demonstrates extraction and processing of taxi data from JSON files using Python.
+- Provides functions to extract taxi group information, derive insights, and create a structured DataFrame for analysis.
 
 ### 3_data_cleaning_for_analyis.ipynb
 
-- The third Jupyter notebook primarily focuses on data cleaning and transformation processes to prepare the dataset for further analysis, ensuring data integrity and consistency.
-- It outlines a series of functions and procedures to handle various data cleaning tasks, including handling empty fields, removing duplicates, converting data types, addressing outliers, and ensuring consistent column order.
-- Additionally, the notebook meets the requirement of saving the final cleaned dataset as CSV but maintains pickle files between stages.
+- Focuses on data cleaning and transformation processes to prepare the dataset for analysis, ensuring data integrity and consistency.
+- Outlines procedures to handle tasks such as empty fields, duplicates removal, data type conversion, outlier detection, and consistent column ordering.
+- Meets the requirement of saving the final cleaned dataset as CSV while maintaining intermediate pickle files between stages.
 
 ## Usage
 
