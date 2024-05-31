@@ -62,3 +62,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Thank you to the contributors and maintainers of the Python libraries used in this project.
+- Appreciation for Google Colab for offering a valuable development environment.
+- Acknowledgment of Github for providing a platform for version control and collaboration.
