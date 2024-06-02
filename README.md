@@ -30,6 +30,11 @@ This repository contains Jupyter Notebook files for preparing and cleaning datas
 - This notebook utilizes the Dtale library for interactive exploratory data analysis (EDA) on a Pandas DataFrame.
 - It installs necessary libraries, loads the dataset, configures Dtale for use in the Colab environment, and provides auxiliary functions for managing Dtale instances.
 
+### 6_report_anomalies_and_outliers.ipynb
+
+- This notebook presents a comprehensive report of anomalies and outliers in driver performance metrics within a taxi service dataset.
+- By highlighting percentile values and implementing a "sanity check" mechanism, the notebook enables stakeholders to identify and investigate potential issues or exceptional cases within the dataset, contributing to data-driven decision-making processes.
+
 ## Usage
 
 1. Clone the repository to your local machine:
