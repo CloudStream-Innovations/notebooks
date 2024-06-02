@@ -30,6 +30,11 @@ This repository contains Jupyter Notebook files for preparing and cleaning datas
 - This notebook utilizes the Dtale library for interactive exploratory data analysis (EDA) on a Pandas DataFrame.
 - It installs necessary libraries, loads the dataset, configures Dtale for use in the Colab environment, and provides auxiliary functions for managing Dtale instances.
 
+### 5_report_top_10_active_drivers.ipynb
+
+- This notebook provides a comprehensive evaluation of the top 10 active drivers in a taxi service, considering various metrics such as endurance, profitability, safety, efficiency, recognition, customer satisfaction, and experience. Through this holistic approach, the best-performing drivers are identified and showcased.
+- The methodology section of the notebook elucidates the four main pillars used for driver evaluation, along with their respective weightings and calculations. By transparently outlining the evaluation process, the notebook ensures clarity and reproducibility in determining the top drivers.
+
 ### 6_report_anomalies_and_outliers.ipynb
 
 - This notebook presents a comprehensive report of anomalies and outliers in driver performance metrics within a taxi service dataset.
