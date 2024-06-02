@@ -40,6 +40,11 @@ This repository contains Jupyter Notebook files for preparing and cleaning datas
 - This notebook presents a comprehensive report of anomalies and outliers in driver performance metrics within a taxi service dataset.
 - By highlighting percentile values and implementing a "sanity check" mechanism, the notebook enables stakeholders to identify and investigate potential issues or exceptional cases within the dataset, contributing to data-driven decision-making processes.
 
+### 7_uncovering_insights.pynb
+
+- This notebook calculates combined scores from various performance metrics, explores correlations with customer satisfaction, and provides insights into how different factors, including vehicle brand, impact overall customer satisfaction.
+- Includes detailed correlation analysis and heatmap visualizations to uncover the relationships between driver performance, recognition, customer feedback, and vehicle type, aiding in data-driven decision-making.
+
 ## Usage
 
 1. Clone the repository to your local machine:
